@@ -1,6 +1,5 @@
 ## Usos
 
----
 
 ### Backend
 
@@ -20,7 +19,6 @@ Utilização em dispositivos embarcados
 
 ## Java vs Outras linguagens
 
----
 
 ### Python
 
@@ -34,11 +32,9 @@ Mais difícil, com controle mais avançado de memoria
 
 Equilíbrio entre desempenho, robustez e portabilidade
 
----
 
 ## Comando javac
 
----
 
 ### Função
 
@@ -48,11 +44,9 @@ Compila arquivos java, transformando código fonte (.java) em bytecode (.class)
 
 javac meuPrograma.java
 
----
 
 ## Classpath e Path
 
----
 
 ### Path
 
