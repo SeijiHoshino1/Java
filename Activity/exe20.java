@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exe20{
+public class exe20{
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         
@@ -8,7 +8,7 @@ public class Exe20{
         int valorDigitado = leitor.nextInt();
 
         for(int i = 0; i <= valorDigitado; i++){
-            System.out.println(valorDigitado);
+            System.out.println(i);
         }
     }
 }
